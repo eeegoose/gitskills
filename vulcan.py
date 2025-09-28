@@ -1,2 +1,2 @@
 x="vulcan"
-print(x,"s.")
+print(x,"sss.")
